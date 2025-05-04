@@ -56,7 +56,7 @@ LOG_CHANNEL = --1002525208664  # Replace with your actual log channel ID
 cookies_file_path = os.getenv("COOKIES_FILE_PATH", "youtube_cookies.txt")
 
 # Image URLs
-cpimg = "https://graph.org/file/5ed50675df0faf833efef-e102210eb72c1d5a17.jpg"  
+cpimg = "https://media-hosting.imagekit.io/66cd28cd789f41e0/test.jpg?Expires=1840966834&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=W7O8se7Y0HdF-vrCc8RZwSUOWJ5SE-DybJaABCP6RDW3mLum~7BZDKUGkZUP3bLicrV1OmVbXZunWslEno7ueS0MzEVt4WAWYGh7mqVL0U7xFoK77RVu-4ax-TRqUhaUM0qCkNjnuCPRxIE5tPImkew0fgGzqjLPI6s7CdiHhf3rOLwg~fsd7tjaAtowxnWlDVta5EFehs14hRRE0ZmQz5PmW5lKxOcKfYl-VAH91NAU7L1YgVhxPcmN-DcpUd1ty8HJy1-uG64qWt8Z09R3JJkozo8hb~x2rcQI2TQ6VQCkOkZwR1oVx1ad9JRCCA-Sf-ToD-vd6eJXKMVh6KusfA__"  
 
 async def show_random_emojis(message):
     emojis = ['🎊', '🔮', '😎', '⚡️', '🚀', '✨', '💥', '🎉', '🥂', '🍾', '🦠', '🤖', '❤️‍🔥', '🕊️', '💃', '🥳','🐅','🦁']
